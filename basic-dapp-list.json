@@ -1,0 +1,29 @@
+{
+  "name": "EXP dApps List",  
+  "categories": [
+    "Games",
+    "DeFi",
+    "Gambling",
+	"Exchanges",
+	"Collectibles",
+	"Marketplace",
+	"Social",
+	"Other"
+  ],
+  "dApps": [
+	{      
+      "name": "EggSwap Chicken",
+	  "description": "EggSwap is an automated market making (AMM) decentralized exchange (DEX) on the Expanse blockchain. This is a project run by the community and with the support of the Expanse Team.",
+      "dappUrl": "https://www.eggs.cool/",      
+      "logoUrl": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/logo/eggswap.cool.png", 
+	  "category": "DeFi",
+	  "keywords": [
+		"DEX",
+		"AMM",
+		"defi", 
+		"Exchange",
+		"eggs cool"
+	  ]
+	},	  
+  ]
+}
